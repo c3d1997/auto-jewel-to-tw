@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         POE Trade 台服跳轉
+// @name         POE 永恆珠寶 台服跳轉
 // @description  自動將 pathofexile.com 的 Trade 搜尋跳轉至 pathofexile.tw
 // @version      1.0
 // @author
